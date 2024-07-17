@@ -1,0 +1,17 @@
+Creating my first legitimate Project :))
+
++ make the necessary files and folders and download required images forehand and shit
++ link the font awesome library to our project to use the icons using cdn built in tag for css
+  (content delivery network: it links your shit to the closest server in order to make processes efficient)
++ we design the page stepwise from top to bottom
+  1. the navbar at the topmost edge of the page
+  2. the additional panel below the navbar
+  3. the hero section
+  4. the redirecting boxes section
+  5. back to top panel above footer
+  6. 3 levels of footer as per original website
++ we're gonna be giving div's more classes than ids since it's more efficient and professional that way
+  using rem units instead of px contributes towards the responsiveness of the website on different devices
++ 7 individual boxes in the navbar (all coded simply and precisely, one by one )
++ cautiously rearrange elements inside flexbox, it's a very useful important property
++ it's all very easy once you go through it, just configuring a bunch of boxes, go for a more complicated website this time
